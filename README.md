@@ -1,4 +1,8 @@
-### Hi there 👋
+![overview](overview-preview.png)
+
+[`🏠 leninhasda.me`](https://leninhasda.me) [`🚀 Linkedin`](https://linkedin.com/in/leninhasda)
+
+
 
 <!--
 **leninhasda/leninhasda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
